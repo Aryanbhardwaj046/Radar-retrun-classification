@@ -42,6 +42,6 @@ A future version may use an SDR/radar signal acquisition front end, a signal-pro
 Open the notebook in Google Colab or Jupyter, install dependencies from `requirements.txt`, and run cells in order.
 
 ## Author
-- Name: [Add your name]
-- Roll number: [Add your roll number]
-- Department / College: [Add your department and college]
+- Name: [ARYAN RAJ,BIKRANT BASANT,ADITYA JHA]
+- Roll number: [BTECH/60137/24,BTECH/60124/24,BTECH/60135/24]
+- Department / College: [ELECTRONIC COMMUNICATION ENGINEERING/Birla Institute of Technology,Mesra off campus deoghar]
